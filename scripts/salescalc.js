@@ -1,5 +1,7 @@
 addEventListener("load", main)
 
+//adding comments, HW3, changed the H1 color to red
+
 function main() {
     btCalcSales.addEventListener("click", calculateSales)
 }
